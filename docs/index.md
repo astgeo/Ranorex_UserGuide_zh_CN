@@ -21,7 +21,7 @@ postList: none
 ---
 # <center> Ranorex Studio: 功能性UI测试自动化 </center><center><font size="3"> 从新手到专家，每个人都可以为桌面、Web 和移动应用程序构建复杂的测试。 </font></center>
 ---
-![book-endtoend](/img/book-endtoend.png)
+![book-endtoend](http://astgeo.gitee.io/ranorex/img/book-endtoend.png)
 ### 一体化自动化测试
 - 加快桌面、web和移动应用程序的GUI测试。
 
